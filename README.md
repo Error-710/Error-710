@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  I'm currently in my second year of a technical high school program in <strong>Systems Development</strong>.  
+  I'm currently in my third year of a technical high school program in <strong>Systems Development</strong>.  
   I've been passionate about <strong>technology</strong> since I was a kid and I'm always looking to improve my knowledge and learn new skills.  
   My main focus is on <strong>web development</strong> and <strong>software engineering</strong>, and I’m constantly exploring new technologies to grow as a developer. 🚀
 </p>
